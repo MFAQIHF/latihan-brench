@@ -1,2 +1,2 @@
 # latihan-brench
-Latihan membuat brench Git
+Repository untuk latihan membuat brench baru di GitHub
